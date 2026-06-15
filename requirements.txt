@@ -3,7 +3,7 @@ pandas
 numpy
 scikit-learn
 tensorboard
-tensorflow
 matplotlib
 streamlit
 ipykernel
+setuptools==69.5.1
